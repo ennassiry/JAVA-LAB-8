@@ -13,6 +13,6 @@
 
 ## 👨‍💻 Auteur
 
-**TP C++ Lab 2 — ENS Marrakech**
+**TP JAVA Lab 8 — ENS Marrakech**
 
 > EN-NASSIRY Mohammed
